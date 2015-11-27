@@ -14,4 +14,5 @@ Open up your terminal or command prompt and enter the following command to downl
 ### How To Run
 Open up your terminal or command prompt and run the command below:<br>
 * $ python entertainment_center.py
+
 fresh_tomatoes.html will be created in current directory and then it will be opened in a browser.
